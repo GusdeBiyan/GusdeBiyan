@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 it's me Gusde Biyan Ambarista
+<br>
 i am study in Politeknik Negeri Jember right now
 
 <!--

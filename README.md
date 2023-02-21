@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+it's me Gusde Biyan Ambarista
+i am study in Politeknik Negeri Jember right now
+
 <!--
 **GusdeBiyan/GusdeBiyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
